@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="297mm"
+   viewBox="0 0 32 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="character-sprite.png.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="22mm"
+     inkscape:zoom="2.2164422"
+     inkscape:cx="76.248323"
+     inkscape:cy="114.59807"
+     inkscape:window-width="875"
+     inkscape:window-height="815"
+     inkscape:window-x="8"
+     inkscape:window-y="40"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer4" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2149"
+       x="-0.32629567"
+       y="-0.15092466"
+       width="1.6524452"
+       height="1.3018493">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.0969922"
+         id="feGaussianBlur2151" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4033"
+       x="-0.21761822"
+       y="-0.21761822"
+       width="1.4352364"
+       height="1.4352364">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4031" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4089" />
+      <feGaussianBlur
+         id="feGaussianBlur4091"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4037"
+       x="-0.21337542"
+       y="-0.095032599"
+       width="1.4267508"
+       height="1.1900652">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4035" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4093" />
+      <feGaussianBlur
+         id="feGaussianBlur4095"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4041"
+       x="-0.67019835"
+       y="-0.15144746"
+       width="2.3403967"
+       height="1.3028949">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4039" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4097" />
+      <feGaussianBlur
+         id="feGaussianBlur4099"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4045"
+       x="-0.67019835"
+       y="-0.15144746"
+       width="2.3403967"
+       height="1.3028949">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4043" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4101" />
+      <feGaussianBlur
+         id="feGaussianBlur4103"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4049"
+       x="-1.6250047"
+       y="-1.0909084"
+       width="4.2500094"
+       height="3.1818167">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4047" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4105" />
+      <feGaussianBlur
+         id="feGaussianBlur4107"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4053"
+       x="-1.6534441"
+       y="-1.1562946"
+       width="4.3068882"
+       height="3.3125892">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4051" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4109" />
+      <feGaussianBlur
+         id="feGaussianBlur4111"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4057"
+       x="-0.21761822"
+       y="-0.21761822"
+       width="1.4352364"
+       height="1.4352364">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4055" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4113" />
+      <feGaussianBlur
+         id="feGaussianBlur4115"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4061"
+       x="-0.21337542"
+       y="-0.095032599"
+       width="1.4267508"
+       height="1.1900652">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4059" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4117" />
+      <feGaussianBlur
+         id="feGaussianBlur4119"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4065"
+       x="-0.67019835"
+       y="-0.15144746"
+       width="2.3403967"
+       height="1.3028949">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4063" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4121" />
+      <feGaussianBlur
+         id="feGaussianBlur4123"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter4069"
+       x="-0.67019835"
+       y="-0.15144746"
+       width="2.3403967"
+       height="1.3028949">
+      <feGaussianBlur
+         stdDeviation="0.5 0.5"
+         result="fbSourceGraphic"
+         id="feGaussianBlur4067" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4125" />
+      <feGaussianBlur
+         id="feGaussianBlur4127"
+         stdDeviation="0.5 0.5"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Below"
+     style="display:inline;opacity:1;filter:url(#filter2149)">
+    <circle
+       style="display:inline;fill:#ffffff;stroke-width:0.264583;filter:url(#filter4033)"
+       id="path1238-3"
+       cx="16.642189"
+       cy="8.5142441"
+       r="5.5142441"
+       transform="matrix(1.0396762,0,0,0.9814775,-0.63601891,0.36439626)"
+       inkscape:export-filename="/home/kierank/Documents/Projects/tree-game/character-sprite.png"
+       inkscape:export-xdpi="391.85626"
+       inkscape:export-ydpi="391.85626" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke-width:0.264583;filter:url(#filter4037)"
+       id="path1243-6"
+       cx="16.751835"
+       cy="23.71907"
+       rx="5.6238904"
+       ry="12.627246"
+       transform="matrix(1.0396762,0,0,0.9814775,-0.63601891,0.36439626)"
+       inkscape:export-filename="/home/kierank/Documents/Projects/tree-game/character-sprite.png"
+       inkscape:export-xdpi="391.85626"
+       inkscape:export-ydpi="391.85626" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke-width:0.264583;filter:url(#filter4041)"
+       id="path1371-7"
+       cx="4.9414206"
+       cy="25.295893"
+       rx="1.7905147"
+       ry="7.9235401"
+       inkscape:transform-center-x="-3.7458847"
+       inkscape:transform-center-y="5.2321949"
+       transform="matrix(0.881895,-0.51980221,0.55062495,0.8325285,4.5628468,3.3088288)"
+       inkscape:export-filename="/home/kierank/Documents/Projects/tree-game/character-sprite.png"
+       inkscape:export-xdpi="391.85626"
+       inkscape:export-ydpi="391.85626" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke-width:0.264583;filter:url(#filter4045)"
+       id="ellipse1453-5"
+       cx="14.797457"
+       cy="14.962489"
+       rx="1.7905147"
+       ry="7.9235401"
+       inkscape:transform-center-x="3.3711609"
+       inkscape:transform-center-y="5.4545921"
+       transform="matrix(0.87846028,0.52495971,-0.55608829,0.82928604,4.5628467,3.3088287)"
+       inkscape:export-filename="/home/kierank/Documents/Projects/tree-game/character-sprite.png"
+       inkscape:export-xdpi="391.85626"
+       inkscape:export-ydpi="391.85626" />
+    <ellipse
+       style="display:inline;fill:#333333;stroke-width:0.264583;filter:url(#filter4049)"
+       id="path1499-3"
+       cx="14.2965"
+       cy="7.3142776"
+       rx="0.73845941"
+       ry="1.1000007"
+       transform="matrix(1.0396762,0,0,0.9814775,-0.63601891,0.36439626)"
+       inkscape:export-filename="/home/kierank/Documents/Projects/tree-game/character-sprite.png"
+       inkscape:export-xdpi="391.85626"
+       inkscape:export-ydpi="391.85626" />
+    <ellipse
+       style="display:inline;fill:#333333;stroke-width:0.239653;filter:url(#filter4053)"
+       id="path1501-5"
+       cx="18.295113"
+       cy="7.3371124"
+       rx="0.72575784"
+       ry="1.0377978"
+       transform="matrix(1.0396762,0,0,0.9814775,-0.63601891,0.36439626)"
+       inkscape:export-filename="/home/kierank/Documents/Projects/tree-game/character-sprite.png"
+       inkscape:export-xdpi="391.85626"
+       inkscape:export-ydpi="391.85626" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke-width:0.264583;filter:url(#filter4057)"
+       id="circle1584-6"
+       cx="16.642189"
+       cy="8.5142441"
+       r="5.5142441"
+       transform="matrix(1.0396762,0,0,0.9814775,-0.63601891,0.36439626)"
+       inkscape:export-filename="/home/kierank/Documents/Projects/tree-game/character-sprite.png"
+       inkscape:export-xdpi="391.85626"
+       inkscape:export-ydpi="391.85626" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke-width:0.264583;filter:url(#filter4061)"
+       id="ellipse1586-2"
+       cx="16.751835"
+       cy="23.71907"
+       rx="5.6238904"
+       ry="12.627246"
+       transform="matrix(1.0396762,0,0,0.9814775,-0.63601891,0.36439626)"
+       inkscape:export-filename="/home/kierank/Documents/Projects/tree-game/character-sprite.png"
+       inkscape:export-xdpi="391.85626"
+       inkscape:export-ydpi="391.85626" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke-width:0.264583;filter:url(#filter4065)"
+       id="ellipse1588-9"
+       cx="4.9414206"
+       cy="25.295893"
+       rx="1.7905147"
+       ry="7.9235401"
+       inkscape:transform-center-x="-3.7458847"
+       inkscape:transform-center-y="5.2321949"
+       transform="matrix(0.881895,-0.51980221,0.55062495,0.8325285,4.5628468,3.3088288)"
+       inkscape:export-filename="/home/kierank/Documents/Projects/tree-game/character-sprite.png"
+       inkscape:export-xdpi="391.85626"
+       inkscape:export-ydpi="391.85626" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke-width:0.264583;filter:url(#filter4069)"
+       id="ellipse1590-1"
+       cx="14.797457"
+       cy="14.962489"
+       rx="1.7905147"
+       ry="7.9235401"
+       inkscape:transform-center-x="3.3711609"
+       inkscape:transform-center-y="5.4545921"
+       transform="matrix(0.87846028,0.52495971,-0.55608829,0.82928604,4.5628467,3.3088287)"
+       inkscape:export-filename="/home/kierank/Documents/Projects/tree-game/character-sprite.png"
+       inkscape:export-xdpi="391.85626"
+       inkscape:export-ydpi="391.85626" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Above"
+     style="display:inline">
+    <circle
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path1238"
+       cx="16.641727"
+       cy="8.5142441"
+       r="5.5142441" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path1243"
+       cx="16.751373"
+       cy="23.71907"
+       rx="5.6238904"
+       ry="12.627246" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path1371"
+       cx="7.5937891"
+       cy="30.488676"
+       rx="1.7905147"
+       ry="7.9235401"
+       inkscape:transform-center-x="-3.6029342"
+       inkscape:transform-center-y="5.3309373"
+       transform="rotate(-31.97924)" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="ellipse1453"
+       cx="20.62674"
+       cy="14.822963"
+       rx="1.7905147"
+       ry="7.9235401"
+       inkscape:transform-center-x="3.2425102"
+       inkscape:transform-center-y="5.5575316"
+       transform="rotate(32.334878)" />
+    <ellipse
+       style="fill:#333333;stroke-width:0.264583"
+       id="path1499"
+       cx="14.296038"
+       cy="7.3142776"
+       rx="0.73845941"
+       ry="1.1000007" />
+    <ellipse
+       style="fill:#333333;stroke-width:0.239653"
+       id="path1501"
+       cx="18.294651"
+       cy="7.3371124"
+       rx="0.72575784"
+       ry="1.0377978" />
+    <circle
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="circle1584"
+       cx="16.641727"
+       cy="8.5142441"
+       r="5.5142441" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="ellipse1586"
+       cx="16.751373"
+       cy="23.71907"
+       rx="5.6238904"
+       ry="12.627246" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="ellipse1588"
+       cx="7.5937891"
+       cy="30.488676"
+       rx="1.7905147"
+       ry="7.9235401"
+       inkscape:transform-center-x="-3.6029342"
+       inkscape:transform-center-y="5.3309373"
+       transform="rotate(-31.97924)" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="ellipse1590"
+       cx="20.62674"
+       cy="14.822963"
+       rx="1.7905147"
+       ry="7.9235401"
+       inkscape:transform-center-x="3.2425102"
+       inkscape:transform-center-y="5.5575316"
+       transform="rotate(32.334878)" />
+    <ellipse
+       style="fill:#333333;stroke-width:0.264583"
+       id="ellipse1592"
+       cx="14.296038"
+       cy="7.3142776"
+       rx="0.73845941"
+       ry="1.1000007" />
+    <ellipse
+       style="fill:#333333;stroke-width:0.239653"
+       id="ellipse1594"
+       cx="18.294651"
+       cy="7.3371124"
+       rx="0.72575784"
+       ry="1.0377978" />
+  </g>
+</svg>
